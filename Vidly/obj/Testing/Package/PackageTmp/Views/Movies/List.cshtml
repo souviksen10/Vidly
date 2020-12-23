@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Movies</h2>
+@Html.ActionLink("New Movie", "New", "Movies", null, new { @class = "btn btn-primary" })
+<br /><br />
+<table id="tblMovies" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Movie</th>
+            <th>Genre</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+</table>
+@*@Html.ActionLink("New Movie", "New", "Movies", null, new { @class="btn btn-primary" })
+    @if (Model.Count > 0)
+    {
+        <table id="tblMovies" class="table table-bordered table-hover">
+            <thead>
+                <tr><th>Movie</th><th>Genre</th></tr>
+
+            </thead>
+            <tbody>
+                @foreach (var movie in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.ActionLink(@movie.Name, "Edit", "Movies", new { id = movie.Id }, null)
+                        </td>
+                        <td>@movie.Genre.Name</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>We don't have any movies yet.</p>
+    }*@
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            var table = $('#tblMovies').DataTable({
+                ajax: {
+                    url: "/api/movies",
+                    dataSrc: ""
+                },
+                columns: [
+                    {
+                        data: "name",
+                        render: function (data, type, movie) {
+                            return "<a href='/movies/Edit/" + movie.id + "'>" + data + "</a>";
+                        }
+                    },
+                    {
+                        data: "genre.name"
+                    },
+                    {
+                        data: "id",
+                        render: function (data) {
+                            return "<button data-movieid='" + data + "' class='btn-link js-delete'>Delete</button>";
+                        }
+                    }
+                ]
+            });
+
+            //DELETE
+            $("#tblMovies").on('click', '.js-delete', function () {
+                var button = $(this);
+                bootbox.confirm("Are you sure you want to delete?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: '/api/movies/' + button.attr('data-movieid'),
+                            method: 'DELETE',
+                            success: function () {
+                                table.row(button.closest('tr')).remove().draw();
+                            }
+                        });
+                    }
+                })
+
+            });
+        });
+    </script>
+}

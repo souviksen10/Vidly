@@ -1,0 +1,268 @@
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Vidly.dll.config
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Vidly.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Vidly.pdb
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\csc.exe
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\csc.exe.config
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\csc.rsp
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\csi.exe
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\csi.exe.config
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\csi.rsp
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Console.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.IO.Compression.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Security.Claims.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.ValueTuple.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\vbc.exe
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\vbc.rsp
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\EntityFramework.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Owin.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Helpers.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Mvc.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Optimization.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Razor.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.WebPages.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\WebGrease.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\EntityFramework.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Helpers.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Mvc.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Optimization.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Razor.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.WebPages.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.pdb
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddValuesToMembershipTypeTable.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotaionsToCustomerName.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddNameColumnToMembershipTypeTable.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.insertnametomigrationrecords.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateColumnToCustomersTable.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddMovieTableAndGenreTable.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.PopulateGenreTable.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Http.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Http.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\AutoMapper.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\AutoMapper.xml
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUserClass.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddPhoneNoToApplicationUserClass.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Glimpse.Ado.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Glimpse.Core.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Glimpse.EF6.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddRentalTable.resources
+C:\Users\SOVIK\Desktop\SOUVIK'S BRIEFCASE\Learning\MVC\Sample Project\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableColumnInMovieTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Vidly.dll.config
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Vidly.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Vidly.pdb
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\csc.exe
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\csc.exe.config
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\csc.rsp
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\csi.exe
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\csi.exe.config
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\csi.rsp
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.AppContext.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Console.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.IO.Pipes.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Security.AccessControl.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Security.Claims.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\vbc.exe
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\vbc.exe.config
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\vbc.rsp
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Antlr3.Runtime.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\AutoMapper.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\EntityFramework.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Glimpse.Ado.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Glimpse.AspNet.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Glimpse.Core.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Glimpse.EF6.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Glimpse.Mvc5.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Newtonsoft.Json.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Owin.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Net.Http.Formatting.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Helpers.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Http.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Http.WebHost.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Mvc.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Optimization.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Razor.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.WebPages.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\WebGrease.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\AutoMapper.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\EntityFramework.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Net.Http.Formatting.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Http.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Http.WebHost.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Helpers.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Mvc.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Optimization.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.Razor.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.WebPages.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Newtonsoft.Json.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Antlr3.Runtime.pdb
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddValuesToMembershipTypeTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotaionsToCustomerName.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddNameColumnToMembershipTypeTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.insertnametomigrationrecords.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateColumnToCustomersTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddMovieTableAndGenreTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateGenreTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUserClass.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddPhoneNoToApplicationUserClass.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddRentalTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableColumnInMovieTable.resources
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.dll
+D:\Souvik\Learning\MVC\Sample Project_MVC\Vidly\obj\Debug\Vidly.pdb
